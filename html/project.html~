@@ -1,0 +1,69 @@
+<html>
+	<head>
+		<title>Projects</title>
+	</head>
+
+	<body>
+
+
+	<div style="width: 100%;height: 300px;background-color:black;">
+    <div align="right">
+        <a href="../index.html" style="color:white">Home</a>
+        <a href="project.html" style="color:white">Projects</a>
+        <a href="resume.html" style="color:white">Resume</a>
+        <a href="contact.html" style="color:white">Contact</a>
+    </div>
+
+    <div align="center">
+        <p>
+            <i style="color:white;font-size:30px"> Curios!! Take a moment to view some <br/><em>PROJECTS</em></i>
+        </p>
+		
+    </div>
+
+</div>
+
+<div align="center">
+<p><i>Lately,I am getting involved in the Tele Display project.</i></p>
+	<center><b>Tele Display</b></center>
+<table align="center">
+
+	<tr>
+		<td style="width:500px">
+			<video width="500" height="300" autoplay controls loop style="border: 1px solid black">
+  			<source src="videos/video1.mp4" type="video/mp4">
+  			Your browser does not support the video tag.
+		</video>
+		</td>
+		<td style="width:500px">
+			<video width="500" height="300" autoplay controls loop style="border: 1px solid black">
+  			<source src="videos/video2.mp4" type="video/mp4">
+  			Your browser does not support the video tag.
+		</video>
+		</td>
+	</tr>
+
+	<tr>
+		
+		<td style="width:500px">
+			<video width="500" height="300" autoplay controls loop style="border: 1px solid black">
+  			<source src="videos/video3.mp4" type="video/mp4">
+  			Your browser does not support the video tag.
+			</video>
+		</td>
+		<td style="width:500px">
+			<video width="500" height="300" autoplay controls loop style="border: 1px solid black">
+  			<source src="videos/video4.mp4" type="video/mp4">
+  			Your browser does not support the video tag.
+		</video>
+		</td>
+	</tr>
+
+</table>
+</div>
+
+	<div style="width: 100%;height: 50px;background-color:black;" align="center">
+		<p style="color:white">&copy;2015 All Right Reserved.</p>
+	</div>
+	</body>
+</html>
